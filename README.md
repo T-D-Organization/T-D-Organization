@@ -1,6 +1,6 @@
 # T-D-ORGANIZATION
 
-**Open-Source Cybersecurity Team** — Ethical. Transparent. Safe.
+**Open-Source Cybersecurity Team** — Unethical. Non-Transparent. UnSafe.
 
 ---
 
