@@ -8,9 +8,9 @@
 
 **T-D-Organization** is an **open-source cybersecurity team** working on **large-scale security projects**. We are a group of ethical hackers, developers, and researchers focused on **authorized penetration testing, OSINT research, and network security**.
 
-We do **not** support malicious hacking. Everything we build is strictly for **education, research, and authorized testing**.
+**We are not safe in this world — because in the name of security, people are being trapped every day.**
 
-**We are safe. We are ethical. We are open-source.**
+**We are unethical. We are open-source.**
 
 ---
 
