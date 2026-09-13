@@ -55,8 +55,8 @@
 </p>
 <h3 id="-connect-with-us">🤝🏻 &nbsp;Connect with Us</h3>
 <p align="center">
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-T--D--ORGANIZATION-1877F2?style=flat&logo=Facebook&logoColor=white"></a>
+<a href="https://instagram.com/t-d-organizationadityavs_"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://facebook.com/t-d-organization"><img src="https://img.shields.io/badge/-T--D--ORGANIZATION-1877F2?style=flat&logo=Facebook&logoColor=white"></a>
 <a href="https://discord.gg/uXa5VBrmDM"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"></a>
 </p>
 <hr>
