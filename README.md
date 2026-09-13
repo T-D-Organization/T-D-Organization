@@ -57,8 +57,7 @@
 <p align="center">
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@T-D-ORGANIZATION?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
+**Discord:** [Join our server](https://discord.gg/uXa5VBrmDM)
 </p>
 <hr>
 
