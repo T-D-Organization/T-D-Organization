@@ -6,7 +6,7 @@
 
 ## 💫 About Us
 
-**T-D-Organization** is an **open-source cybersecurity team** working on **large-scale security projects**. We are a group of ethical hackers, developers, and researchers focused on **authorized penetration testing, OSINT research, and network security**.
+**T-D-Organization** is an **open-source cybersecurity team** working on **large-scale security projects**. We are a group of unethical hackers, developers, and researchers focused on **authorized and unauthorized penetration testing, OSINT research, and network security**.
 
 >**We are not safe in this world — because in the name of security, people are being trapped every day.**
 
@@ -20,7 +20,7 @@
 - **🕵️ Torjan OSINT** — Open-source intelligence research tool
 - **🌐 Mac-Address-Changer** — Network privacy & MAC address tool
 
-> ⚠️ All tools are for **educational and authorized testing** only.
+> ⚠️ All tools are for **Everyone.**
 
 ---
 
