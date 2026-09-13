@@ -1,3 +1,37 @@
+# T-D-ORGANIZATION
+
+**Open-Source Cybersecurity Team** — Ethical. Transparent. Safe.
+
+---
+
+## 💫 About Us
+
+**T-D-Organization** is an **open-source cybersecurity team** working on **large-scale security projects**. We are a group of ethical hackers, developers, and researchers focused on **authorized penetration testing, OSINT research, and network security**.
+
+We do **not** support malicious hacking. Everything we build is strictly for **education, research, and authorized testing**.
+
+**We are safe. We are ethical. We are open-source.**
+
+---
+
+## 📦 Our Projects
+
+- **🔒 ScamPhish** — Authorized phishing simulation & security awareness toolkit
+- **🕵️ Torjan OSINT** — Open-source intelligence research tool
+- **🌐 Mac-Address-Changer** — Network privacy & MAC address tool
+
+> ⚠️ All tools are for **educational and authorized testing** only.
+
+---
+
+## 🤝 Contribute
+
+1. Open an issue
+2. Fork & make changes
+3. Submit a Pull Request
+
+---
+
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
