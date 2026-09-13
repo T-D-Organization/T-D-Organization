@@ -1,206 +1,43 @@
-<div align="center">
-
-# 🛡️ Torjan-Osint
-
-### Advanced Multi-Purpose OSINT Toolkit for Security Research
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-v0.1-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SzWt6yhMm5)
-
-A powerful Python-based OSINT toolkit containing multiple utilities for information gathering, analysis, and security research.
-
-</div>
-
----
-
-# ✨ Features
-
-- 🔍 OSINT Utilities
-- 🤖 Discord Token Info OSINT
-- 🌐 WHOIS Lookup
-- 📱 Phone Number Lookup
-- 🌍 IP Information
-- 🌐 DNS Lookup
-- 🖼️ EXIF Metadata Reader
-- 📧 Email Utilities
-- 🔐 Hash Generator
-- 🔑 Base64 Encoder / Decoder
-- 📡 Network Utilities
-- 📂 File Analysis
-- ⚡ Fast CLI Interface
-- 🎨 Colorful Terminal UI
-- 🔄 Automatic Update Checker
-- 🖥️ Windows & Linux Support
-
----
-
-# 📂 Project Structure
-
-```
-Torjan-Osint/
-│
-├── Torjan-Osint.py
-├── setup.py
-├── requirements.txt
-├── version.json
-├── config.json
-└── README.md
-```
-
----
-
-# 📥 Installation
-
-## Windows
-
-### Clone Repository
-
-```bash
-git clone https://github.com/T-D-Organization/Torjan-Osint.git
-```
-
-```bash
-cd Torjan-Osint
-```
-
-### Install Python Packages
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Setup
-
-```bash
-python setup.py
-```
-
-Or run directly
-
-```bash
-python Torjan-Osint.py
-```
-
----
-
-# 🐧 Linux
-
-### Clone Repository
-
-```bash
-git clone https://github.com/T-D-Organization/Torjan-Osint.git
-```
-
-```bash
-cd Torjan-Osint
-```
-
-### Install Python
-
-#### Ubuntu / Debian
-
-```bash
-sudo apt update
-sudo apt install python3 python3-pip git -y
-```
-
-#### Arch Linux
-
-```bash
-sudo pacman -S python python-pip git
-```
-
-#### Fedora
-
-```bash
-sudo dnf install python3 python3-pip git
-```
-
----
-
-### Install Requirements
-
-```bash
-pip3 install -r requirements.txt
-```
-
----
-
-### Launch
-
-```bash
-python3 setup.py
-```
-
-or
-
-```bash
-python3 Torjan-Osint.py
-```
-
----
-
-# 🔄 Update
-
-```bash
-git pull
-pip install -r requirements.txt --upgrade
-```
-
----
-
-# ⚙️ Requirements
-
-- Python 3.9+
-- Internet Connection
-- Windows / Linux
-
----
-
-# 📸 Preview
-
-```
-████████╗ ╔██████╗ ██████╗    ██████╗ ╔█████╗ ████    ██╗
-   ██╔══╝ ██    ██ ██   ██      ██╔═╝ ██╔═╗██ ██╔██   ██║
-   ██║    ██    ██ ██████═╗     ██║   ███████ ██║╔██  ██║
-   ██║    ██    ██ ██╔══██║ ██  ██║   ██╔═╗██ ██║╚╝██ ██║
-   ██║    ╚██████╝ ██║  ██║ ╚████═╝   ██║ ║██ ██║  ╔████║
-   ╚═╝     ╚════╝  ╚═╝  ╚═╝  ╚══╝     ╚═╝ ╚═╝ ╚═╝  ╚════╝
-
-                  Torjan-Osint v0.1
-```
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-# ⭐ Support
-
-If you find this project useful, please consider giving it a ⭐ on GitHub.
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/SzWt6yhMm5)
-
----
-
-# ⚠️ Disclaimer
-
-This project is intended **only for educational purposes, authorized security research, and defensive cybersecurity testing**. Users are solely responsible for ensuring their use complies with applicable laws and obtaining permission before testing systems they do not own or administer. The author assumes no responsibility for misuse or illegal activity.
-
----
-
-<div align="center">
-
-Made with ❤️ by **T-D-Organization**
-
-</div>
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
+<img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3" alt="R (Statistics)"><br>
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&amp;logo=rstudio" alt="RStudio">&nbsp;
+<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
+<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
+<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+</a>
+</p>
+<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
+</p>
+<hr>
+<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
+<p>Last Edited on: 11/12/2020</p> 
